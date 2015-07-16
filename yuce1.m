@@ -1,4 +1,4 @@
-function [x]=yece1(x01,Sy1,Sx1)
+function [x]=yuce1(x01,Sy1,Sx1)
     %renew the value of the beginning of the next stage in area 1 after
      %vaccination
     global w1 u l1 T dd
